@@ -1,0 +1,15 @@
+{
+  "name": "minimal-webpack",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "n",
+  "license": "MIT",
+  "devDependencies": {
+    "webpack": "^4.39.1",
+    "webpack-cli": "^3.3.6"
+  },
+  "scripts": {
+    "build": "webpack",
+    "watch": "webpack -w"
+  }
+}
